@@ -96,6 +96,15 @@ textarea {
    LIT LIT LITL LITLITLITLITLITLITLIT
    ========================================================================== */
 
+
+.hiemma p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 15%;
+    
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -180,93 +189,10 @@ textarea {
 
 @media only screen and (max-width: 1200px) {
 
- .benjamin-speaks h1 {
-    font-family: "Noto-Serif";
-    font-size: 2.5em;
-    word-wrap: break-word;
-}
- .navigation h1 {
-    font-size: 2em;
-}
-
-.navigation h5 {
-    font-size:  1em;
-}
-
-.navigation h2 {
-    font-size:  1.8em;
-}
-
-    
-}
-@media only screen and (max-width: 767px) {
-
-    .benjamin-speaks h1 {
-    font-family: "Noto-Serif";
-    word-wrap: break-word;
-    font-size: 2em;
-}
- .navigation h1 {
-    font-size: 2em;
-}
-
-.navigation h5 {
-    font-style: 0.8em;
-}
-
-.navigation h2 {
-    font-size:  1.5em;
-}
-
-}
-@media only screen and (max-width: 480px) {
-
-    .benjamin-speaks h1 {
-    font-family: "Noto-Serif";
-    word-wrap: break-word;
-    font-size: 1em;
-    
-}
- .navigation h1 {
-    font-size: 1em;
-}
-
-.navigation h5 {
-    font-size: 0.6em;
-}
-
-.navigation h2 {
-    font-size: 0.8em;
-}
-
-}
-/*Iphone 4s*/
-@media only screen and (max-width: 330px) {
-
-    .benjamin-speaks h1 {
-    font-family: "Noto-Serif";
-    word-wrap: break-word;
-    font-size: 0.9em;
-    padding-left: 10%;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    
-}
- .navigation h1 {
-    font-size: 0.9em;
-}
-
-.navigation h5 {
-    font-size: 0.4em;
-}
-
-.navigation h2 a {
-    font-size:  0.6em;
 }
 
 
 
-}
 
 
 
