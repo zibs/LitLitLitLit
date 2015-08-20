@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  version="2.0">
+
   <channel>
 
     <title>Lit Lit Lit Lit</title>
@@ -10,7 +11,7 @@
     <lastBuildDate>Wed, 19 Aug 2015 11:30:00 -0500</lastBuildDate>
     <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
   
-    <webMaster>Eli Zibin </webMaster>
+    <webMaster>EliZibin</webMaster>
 
     <itunes:author>emmametcalfehurst@gmail.com</itunes:author>
     <itunes:subtitle>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver,BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties.</itunes:subtitle>
@@ -33,7 +34,7 @@
 <!-- Begin Items -->
 
 <item>
-<title>LIT LIT LIT LIT I - Part I: Zebulon Zang &amp; Kara Hansen</title>
+<title>LIT LIT LIT LIT I - Part I: Zebulon Zan and Kara Hansen</title>
 <link>http://litlitlitlit.xyz/podcasts/LITIPartI-ZebKara.mp3</link>
 <guid>http://litlitlitlit.xyz/podcasts/LITIPartI-ZebKara.mp3</guid>
 <description>LIT LIT LIT LIT Avenue 165 East Hastings St. Vancouver BC - Zebulon Zang, Kara Hansen, Alex Bovril, and Steffanie Ling. April 18th 2015 8:00pm.
