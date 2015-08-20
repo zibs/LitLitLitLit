@@ -3,29 +3,29 @@
   <channel>
 
     <title>Lit Lit Lit Lit</title>
-    <description>The 411 on podCasts, podCasters and podcasting</description>
+    <description>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver,BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties. LIT LIT LIT LIT is organized by Steffanie Ling and Emma Metcalfe Hurst.</description>
     <link>http://litlitlitlit.xyz</link>
-    <language>en-us</language>
+    <language>en-ca</language>
     <copyright>Creative Commons</copyright>
-    <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
-    <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>rob@podcast411.com</webMaster>
+    <lastBuildDate>Wed, 19 Aug 2015 11:30:00 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
+  
+    <webMaster>elizibin@gmail.com</webMaster>
 
-    <itunes:author>rob @ podcast411</itunes:author>
-    <itunes:subtitle>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting </itunes:subtitle>
-    <itunes:summary>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting.  Each show we interview a different Podcaster to find out what Podcasts they are listening to, what their show is about, what they are using to create their Podcast and what advice they have for other Podcasters or those looking to become a Podcaster.  Plus we have news, notes and tech tips for Podcasting. </itunes:summary>
+    <itunes:author>emmametcalfehurst@gmail.com</itunes:author>
+    <itunes:subtitle>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver,BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties.</itunes:subtitle>
+    <itunes:summary>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver,BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties. LIT LIT LIT LIT is organized by Steffanie Ling and Emma Metcalfe Hurst.</ </itunes:summary>
 
     <itunes:owner>
-           <itunes:name>Rob W</itunes:name>
-           <itunes:email>rob@podcast411.com</itunes:email>
+           <itunes:name>Emma M H</itunes:name>
+           <itunes:email>emmametcalfehurst@gmail.com</itunes:email>
     </itunes:owner>
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href="http://www.podcast411.com/img/411_itunes.jpg"/>
+<itunes:image href="https://41.media.tumblr.com/dade51bb75bbb5299170ce28e5a9be1e/tumblr_ns2gxntIDD1uxja4xo1_540.jpg"/>
     
-<itunes:category text="Technology">
+<itunes:category text="Literature">
      <itunes:category text="Podcasting"/>
 </itunes:category>
 
@@ -33,30 +33,22 @@
 <!-- Begin Items -->
 
 <item>
-<title>411 Item 138 ZedCast with Bruce Murray - Voicemail line 206-666-4357 </title>
-<link>http://podcast411.com/forums/viewtopic.php?t=451</link>
-<guid>http://media.libsyn.com/media/podcast411/411_060325.mp3</guid>
-<description> Welcome to the show it is March 25th and this is our 138th 
-   show.  Today will be an interview with Bruce Murray from the Zedcast 
-   podcast. Please visit this podcast at http://www.zedcast.com/ </description>
-<enclosure url="http://media.libsyn.com/media/podcast411/411_060325.mp3" length="11779397" type="audio/mpeg"/>
+<title>LIT LIT LIT LIT I - Part I: Zebulon Zang & Kara Hansen</title>
+<link>http://litlitlitlit.xyz/podcasts/LITIPart I-ZebKara.mp3</link>
+<guid>http://litlitlitlit.xyz/podcasts/LITIPart I-ZebKara.mp3</guid>
+<description>LIT LIT LIT LIT Avenue 165 East Hastings St. Vancouver BC - Zebulon Zang, Kara Hansen, Alex Bovril, and Steffanie Ling. April 18th 2015 8:00pm </description>
+<enclosure url="http://litlitlitlit.xyz/podcasts/LITIPart I-ZebKara.mp3" length="68854786" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+<pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
 
-<itunes:author>Rob @ podCast411</itunes:author>
+<itunes:author>Emma Metcalfe Hurst</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Welcome to the show it is March 25th and this is our 138th 
-   show.  Today will be an interview with Bruce Murray from the Zedcast 
-   podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:subtitle>
-<itunes:summary> Welcome to the show it is March 25th and this is our 
-   138th show.  Today will be an interview with Bruce Murray from the 
-   Zedcast podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:summary>
-<itunes:duration>00:24:30</itunes:duration>
-<itunes:keywords>podCast411, podcast, podcasting, podcaster, Interviews, Bruce Murray, Zedcast</itunes:keywords>
+<itunes:subtitle>LIT LIT LIT LIT Avenue 165 East Hastings St. Vancouver BC - Zebulon Zang, Kara Hansen, Alex Bovril, and Steffanie Ling. April 18th 2015 8:00pm </itunes:subtitle>
+<itunes:summary> LIT LIT LIT LIT Avenue 165 East Hastings St. Vancouver BC - Zebulon Zang, Kara Hansen, Alex Bovril, and Steffanie Ling. April 18th 2015 8:00pm </itunes:summary>
+<itunes:duration>00:57:23</itunes:duration>
+<itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
 </item>
-
-
 
 
 
