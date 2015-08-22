@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
         <channel>
+        <atom:link href="http://litlitlitlit.xyz/litlitlitlit.xml" rel="self" type="application/rss+xml" />
+
             <title>Lit Lit Lit Lit</title>
             <description>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver,BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties. LIT LIT LIT LIT is organized by Steffanie Ling and Emma Metcalfe Hurst.</description>
             <link>http://litlitlitlit.xyz</link>
             <language>en-ca</language>
             <copyright>Creative Commons</copyright>
-            <lastBuildDate>Thu, 20 Aug 2015 11:30:00 -0500</lastBuildDate>
+            <lastBuildDate>Sat, 22 Aug 2015 11:30:00 -0500</lastBuildDate>
             <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
             <webMaster>elizibin@gmail.com</webMaster>
             <itunes:author>emmametcalfehurst@gmail.com</itunes:author>
@@ -23,7 +25,7 @@
             </itunes:category>
             <!-- Begin Items -->
             <item>
-              <!-- LIT I PART Ig -->
+              <!-- LIT I PART I -->
                 <title>LIT LIT LIT LIT I - Part I: Zebulon Zang and Kara Hansen</title>
                 <link>http://litlitlitlit.xyz/podcasts/LITIPartI-ZebKara.mp3</link>
                 <guid>http://litlitlitlit.xyz/podcasts/LITIPartI-ZebKara.mp3</guid>
@@ -55,7 +57,6 @@
                 <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
             </item>
             <!-- LIT II PART II -->
-
             <item>
                 <title>LIT LIT LIT LIT II - Part I: Ronan Nanning-Watson and Zuzia Juszkiewicz</title>
                 <link>http://litlitlitlit.xyz/podcasts/LITIIPartI-RonnanZuzia.mp3</link>
@@ -71,7 +72,31 @@
                 <itunes:duration>00:42:46</itunes:duration>
                 <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
             </item>
-        
+
+            <!-- LIT III PART I -->
+               <item>
+                <title>LIT LIT LIT LIT III - Part I: </title>
+                <link>http://litlitlitlit.xyz/podcasts/LITIII-PartI-MaiaAlex.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LITIII-PartI-MaiaAlex.mp3</guid>
+                <description>LIT LIT LIT LIT Publication Studio: 222 E Georgia St. Vancouver BC - ALEX BOVRIL is a writer and visual artist. Recently, he has been pouring colours of concrete and writing fiction. He is currently an MFA Candidate in Creative Writing at New York University.
+
+DONATO MANCINI makes visual and procedural poetry, bookworks, and visual art. His books and chapbooks include: Snowline (2015), Buffet World (2011) Fact ‘N’ Value (2011), Hell Passport no.22 (2008), Æthel (2007), 58 Free Coffees (2006) and Ligatures (2005). Mancini’s published critical writing includes work on the archive, time and memory in Anamnesia: Unforgetting (2011), and a discourse analysis of poetry reviews in You Must Work Harder to Write Poetry of Excellence (2012). His most recent full length book, Loitersack (2014), is a labyrinthine commonplace book where critical, theoretical and para-literary tendencies intersect in the forms of poetry, poetics, theory, theory theatre, laugh particles and many many questions.
+
+KATE MOSS is an Australian artist who works with drawing, writing, painting, sculpture, sound and performance. Her works explore the possibilities of conversation through the vernacular of landscape, rhythm and material experimentation.
+
+MAIA NICHOLS (b. Berkeley, California) is an artist and writer. She holds a BA in Psychology and a BFA from the University of British Columbia. She is a Masters Candidate in the Department of Critical Studies at California Institute of the Arts. Her work is currently on view at Fundación Botín’s Villa Iris in Spain</description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LITIII-PartI-MaiaAlex.mp3" length="20326907" type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Sat, 222 Aug 2015 12:30:00 -0500</pubDate>
+                <itunes:author>Emma Metcalfe Hurst</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT III is an evening of new readings, written and given by Alex Bovril,Donato Mancini, Kate Moss, and Maia Nichols</itunes:subtitle>
+                <itunes:summary>LIT LIT LIT LIT III is an evening of new readings, written and given by Alex Bovril,Donato Mancini, Kate Moss, and Maia Nichols </itunes:summary>
+                <itunes:duration>00:56:27</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+
+
 
         </channel>
     </rss>
