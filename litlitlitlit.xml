@@ -7,7 +7,7 @@
             <link>http://lit-lit-lit-lit.tumblr.com</link>
             <language>en-ca</language>
             <copyright>Creative Commons</copyright>
-            <lastBuildDate>Wed, 11 Nov 2015 11:58:00 -0500</lastBuildDate>
+            <lastBuildDate>Wed, 9 Dec 2015 11:58:00 -0500</lastBuildDate>
             <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
             <webMaster>elizibin@gmail.com</webMaster>
             <itunes:author>Produced by Emma Metcalfe Hurst and Steffanie Ling</itunes:author>
@@ -197,6 +197,55 @@ MAIA NICHOLS (b. Berkeley, California) is an artist and writer. She holds a BA i
                 <itunes:summary>LIT LIT LIT LIT III - Part 2: Kate Moss and Donato Mancini 
 LIT LIT LIT LIT III took place at Publication Studio in Vancouver BC on August 2, 2015. New readings were written and given by Maia Nichols, Alex Bovril, Kate Moss and Donato Mancini. Kate Moss’ reading “Swedish Light and Other Poems" is available as a limited edition chap book, published and distributed by the Somewhat Urgent Series Press. Alex Bovril’s reading is from his new book “Fragments of Bismuth” a series of short stories  published and distributed by The Somewhat Urgent Series Press. </itunes:summary>
                 <itunes:duration>00:33:48</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+        <!-- LIT LIT LIT LIT VANCOUVER ART BOOK FAIR PART I -->
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+            <item>
+                <title>LIT LIT LIT LIT Vancouver Art Book Fair - Part I: Tom Whalen and Emma Metcalfe Hurst  </title>
+                <link>http://litlitlitlit.xyz/podcasts/LITVABF1.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LITVABF1.mp3</guid>
+                <description>LIT LIT LIT LIT Vancouver Art Gallery, 750 Hornby St. Vancouver BC - Tom Whalen and Emma Metcalfe Hurst.
+                 </description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LITVABF1.mp3" length="19850134" type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Tue, 8 Dec 2015 11:50:00 -0500</pubDate>
+                <itunes:author>LIT LIT LIT LIT</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT Vancouver Art Book Fair - Part I: New readings written and given by Tom Whalen and Emma Metcalfe Hurst.</itunes:subtitle>
+                <itunes:summary>LIT LIT LIT LIT Vancouver Art Book Fair - Part I: Tom Whalen and Emma Metcalfe Hurst.
+LIT LIT LIT LIT Vancouver Art Book Fair took place at the Vancouver Art Gallery Vancouver BC on October 18th, 2015 as a part of KIOSK: Reading Room. New readings were written and given by Tom Whalen, Emma Metcalfe Hurst, Hugo Noriega and Zuzia Juszkiewicz. Zuzia Juszkiewicz is reading from her new book "PROGRAM", a fifty-six page poem written in 2014 published and distributed by The Somewhat Urgent Series Press.</itunes:summary>
+                <itunes:duration>00:20:41</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+
+
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+        <!-- LIT LIT LIT LIT VANCOUVER ART BOOK FAIR PART II -->
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+            <item>
+                <title>LIT LIT LIT LIT Vancouver Art Book Fair - Part II: Hugo Noriega and Zuzia Juszkiewicz</title>
+                <link>http://litlitlitlit.xyz/podcasts/LITVABF2.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LITVABF2.mp3</guid>
+                <description>LIT LIT LIT LIT Vancouver Art Gallery, 750 Hornby St. Vancouver BC - Hugo Noriega and Zuzia Juszkiewicz.
+                 </description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LITVABF2.mp3" length="21876818" type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Tue, 8 Dec 2015 11:50:00 -0500</pubDate>
+                <itunes:author>LIT LIT LIT LIT</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT Vancouver Art Book Fair - Part II: New readings written and given by Hugo Noriega and Zuzia Juszkiewicz.</itunes:subtitle>
+                <itunes:summary>LIT LIT LIT LIT Vancouver Art Book Fair - Part II: Hugo Noriega and Zuzia Juszkiewicz.
+LIT LIT LIT LIT Vancouver Art Book Fair took place at the Vancouver Art Gallery Vancouver BC on October 18th, 2015 as a part of KIOSK: Reading Room. New readings were written and given by Tom Whalen, Emma Metcalfe Hurst, Hugo Noriega and Zuzia Juszkiewicz. Zuzia Juszkiewicz is reading from her new book "PROGRAM", a fifty-six page poem written in 2014 published and distributed by The Somewhat Urgent Series Press. </itunes:summary>
+                <itunes:duration>00:22:47</itunes:duration>
                 <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
             </item>
         </channel>
