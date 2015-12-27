@@ -8,7 +8,7 @@
             <language>en-ca</language>
             <copyright>Creative Commons</copyright>
             <lastBuildDate>Wed, 9 Dec 2015 11:58:00 -0500</lastBuildDate>
-            <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
+            <pubDate>Sat, 26 Dec 2015 11:57:00 -0500</pubDate>
             <webMaster>elizibin@gmail.com</webMaster>
             <itunes:author>Produced by Emma Metcalfe Hurst and Steffanie Ling</itunes:author>
             <itunes:subtitle>LIT LIT LIT LIT is a bi-monthly literary event in Vancouver, BC that simply invites FOUR writers, poets and/or artists at a time to read their work to interested parties.</itunes:subtitle>
@@ -246,6 +246,50 @@ LIT LIT LIT LIT Vancouver Art Book Fair took place at the Vancouver Art Gallery 
                 <itunes:summary>LIT LIT LIT LIT Vancouver Art Book Fair - Part II: Hugo Noriega and Zuzia Juszkiewicz.
 LIT LIT LIT LIT Vancouver Art Book Fair took place at the Vancouver Art Gallery Vancouver BC on October 18th, 2015 as a part of KIOSK: Reading Room. New readings were written and given by Tom Whalen, Emma Metcalfe Hurst, Hugo Noriega and Zuzia Juszkiewicz. Zuzia Juszkiewicz is reading from her new book "PROGRAM", a fifty-six page poem written in 2014 published and distributed by The Somewhat Urgent Series Press. </itunes:summary>
                 <itunes:duration>00:22:47</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+        <!-- LIT LIT LIT LIT IV PART I>
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+            <item>
+                <title>LIT LIT LIT LIT IV - Part I: Jacquelyn Ross and Bradley Iles </title>
+                <link>http://litlitlitlit.xyz/podcasts/LITIVI.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LITIVI.mp3</guid>
+                <description>LIT LIT LIT LIT IV took place at 221A in Vancouver, BC on December 6, 2015. New readings were given by Jacquelyn Ross, Bradley Iles, Eli Zibin and Steffanie Ling. </description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LITVABF2.mp3" length="54656955 " type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Sat, 26 Dec 2015 11:51:00 -0500</pubDate>
+                <itunes:author>LIT LIT LIT LIT</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT IV - Part I: Jacquelyn Ross and Bradley Iles </itunes:subtitle>
+                <itunes:summary>LLIT LIT LIT LIT IV took place at 221A in Vancouver, BC on December 6, 2015. New readings were given by Jacquelyn Ross, Bradley Iles, Eli Zibin and Steffanie Ling. 
+</itunes:summary>
+                <itunes:duration>00:56:56</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+        <!-- LIT LIT LIT LIT IV PART II -->
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+            <item>
+                <title>LIT LIT LIT LIT IV - Part II: Eli ZIbin and Steffanie Ling </title>
+                <link>http://litlitlitlit.xyz/podcasts/LITIVII.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LITIVII.mp3</guid>
+                <description>LIT LIT LIT LIT IV took place at 221A in Vancouver, BC on December 6, 2015. New readings were given by Jacquelyn Ross, Bradley Iles, Eli Zibin and Steffanie Ling. </description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LITVABF2.mp3" length="39173450" type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Sat, 26 Dec 2015 11:50:00 -0500</pubDate>
+                <itunes:author>LIT LIT LIT LIT</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT IV - Part II: Eli ZIbin and Steffanie Ling </itunes:subtitle>
+                <itunes:summary>LIT LIT LIT LIT IV took place at 221A in Vancouver, BC on December 6, 2015. New readings were given by Jacquelyn Ross, Bradley Iles, Eli Zibin and Steffanie Ling. 
+</itunes:summary>
+                <itunes:duration>00:40:48</itunes:duration>
                 <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
             </item>
         </channel>
