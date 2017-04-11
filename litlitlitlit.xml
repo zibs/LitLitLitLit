@@ -7,7 +7,7 @@
             <link>http://lit-lit-lit-lit.tumblr.com</link>
             <language>en-ca</language>
             <copyright>Creative Commons</copyright>
-            <lastBuildDate>Tue, 11 Apr 2017 12:30:00 -0500</lastBuildDate>
+            <lastBuildDate>Tue, 11 Apr 2017 12:32:00 -0500</lastBuildDate>
             <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
             <webMaster>elizibin@gmail.com</webMaster>
             <itunes:author>Produced by Emma Metcalfe Hurst and Steffanie Ling</itunes:author>
@@ -402,8 +402,8 @@ http://221a.ca/rereading-room
 
           <item>
               <title>LIT LIT LIT LIT VII took place in conjunction with the magazine launch of Charcuterie 2 on Saturday, April 1 2017 in Spare Room. The evening consisted of readings by Stacey Ho, Sam Weselowski, Julia Dahee Hong and Sung Pil Yoon. Charcuterie is a publication that strives to provide a forum for experimental writing and informed polemics without pedantry. It assembles a polyphony of inquiry and documents the messy landscape of opinion and critique that unravels in close proximity to where we work, live and make art in Vancouver. Visit https://charcuterie.party to learn more. </title>
-              <link>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII-Charc2.mp3</link>
-              <guid>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII-Charc2.mp3</guid>
+              <link>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII_Charc2.mp3</link>
+              <guid>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII_Charc2.mp3</guid>
               <description>00:05:42 Stacey Ho (contributor to Charcuterie 2) reads a short text based off of an interview with her aunt, a traditional Chinese medicine practitioner and “Adventures from the Third Bureau,” published in Charcuterie 2.
 
 00:23:41 Sam Weselowski celebrates his first reading by sharing two poems by the American poet Jack Spicer and then follows up with some of his own poems.
@@ -412,9 +412,9 @@ http://221a.ca/rereading-room
 
 00:52:26 Sung Pil Yoon (contributor to Charcuterie 2) reads the second text from “The Bus as Hostile Architecture”; a series of five short stories about public transit that will appear consecutively in Charcuterie.
 </description>
-              <enclosure url="https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII-Charc2.mp3" length="32701942" type="audio/mp3" />
+              <enclosure url="https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVII_Charc2.mp3" length="94767720" type="audio/mp3" />
               <category>Podcasts</category>
-              <pubDate>Mon, 10 Apr 2017 18:10:03 -0500</pubDate>
+              <pubDate>Tue, 11 Apr 2017 13:10:04 -0500</pubDate>
               <itunes:author>LIT LIT LIT LIT</itunes:author>
               <itunes:explicit>No</itunes:explicit>
               <itunes:subtitle>
@@ -432,7 +432,7 @@ http://221a.ca/rereading-room
 
 00:52:26 Sung Pil Yoon (contributor to Charcuterie 2) reads the second text from “The Bus as Hostile Architecture”; a series of five short stories about public transit that will appear consecutively in Charcuterie.
               </itunes:summary>
-              <itunes:duration>01:05:49</itunes:duration>
+              <itunes:duration>01:05:48</itunes:duration>
               <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, Reading, LITLITLITLIT</itunes:keywords>
           </item>
         </channel>
