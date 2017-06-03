@@ -7,7 +7,7 @@
             <link>http://lit-lit-lit-lit.tumblr.com</link>
             <language>en-ca</language>
             <copyright>Creative Commons</copyright>
-            <lastBuildDate>Tue, 11 Apr 2017 12:33:00 -0500</lastBuildDate>
+            <lastBuildDate>Sat, 3 Jun 2017 15:33:00 -0500</lastBuildDate>
             <pubDate>Wed, 19 Aug 2015 19:30:00 -0500</pubDate>
             <webMaster>elizibin@gmail.com</webMaster>
             <itunes:author>Produced by Emma Metcalfe Hurst and Steffanie Ling</itunes:author>
@@ -396,7 +396,7 @@ http://221a.ca/rereading-room
 
 <!-- *******************************************************-->
 <!-- *******************************************************-->
-                    <!-- LIT LIT LIT LIT II And Charc 2 -->
+                    <!-- LIT LIT LIT LIT VII And Charc 2 -->
 <!-- *******************************************************-->
 <!-- *******************************************************-->
 
@@ -433,6 +433,57 @@ http://221a.ca/rereading-room
 00:52:26 Sung Pil Yoon (contributor to Charcuterie 2) reads the second text from “The Bus as Hostile Architecture”; a series of five short stories about public transit that will appear consecutively in Charcuterie.
               </itunes:summary>
               <itunes:duration>01:05:48</itunes:duration>
+              <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, Reading, LITLITLITLIT</itunes:keywords>
+          </item>
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+                    <!-- LIT LIT LIT LIT III
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+          <item>
+              <title>LIT LIT LIT LIT VIII: Nanaimo Edition - Sonnet L’Abbé, Roger Farr, Hamish Hardie, Charlotte Zhang, Casey Wei</title>
+              <link>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVIII_Nanaimo.mp3</link>
+              <guid>https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVIII_Nanaimo.mp3</guid>
+              <description>
+                00:03:20 - Roger Farr reads “Understanding Understanding Television” a poem about television, “Transitional Demands” a poem that looks at the different syntactical ways “The People” appear via web search, and ends with a long poem based on a psycho-geography mapping of Vancouver.
+
+                00:32:21 - Charlotte Zhang reads her own “Untitled” short story.
+
+                00:43:15 - Sonnet L’Abbé shares a selection of her sonnets from “Sonnet’s Shakespeare” (to be published by Mcclelland & Stewart in 2018) where she writes over all of Shakespeare’s 154 sonnets.
+
+                01:10:49 - Hamish Hardie reads his short story “The Window.”
+
+                01:18:20 - Casey Wei reads “A Letter from the Editor” (her) from the first edition of Agony Klub (AK01), a magazine and mix tape edited by Wei that invites musicians with writing and visual art practices and vice versa to contribute.
+</description>
+              <enclosure url="https://s3-us-west-2.amazonaws.com/litlitlitlit/LITLITLITLITVIII_Nanaimo.mp3" length="137566938" type="audio/mp3" />
+              <category>Podcasts</category>
+              <pubDate>Sat, 3 Jun 2017 13:11:04 -0500</pubDate>
+              <itunes:author>LIT LIT LIT LIT</itunes:author>
+              <itunes:explicit>No</itunes:explicit>
+              <itunes:subtitle>
+              </itunes:subtitle>
+              <itunes:summary>
+              LIT LIT LIT LIT VIII took a trip to Vancouver Island to host an evening of readings at Nanaimo Art Gallery in Nanaimo, BC on Saturday, May 6 2017. The evening featured poets Sonnet L’Abbé (Nanaimo) and Roger Farr (Gabriola Island) with artist Casey Wei (Vancouver), alongside emerging Code Switching writers Hamish Hardie (Nanaimo) and Charlotte Zhang (Nanaimo).
+
+              ~
+
+              00:03:20 - Roger Farr reads “Understanding Understanding Television” a poem about television, “Transitional Demands” a poem that looks at the different syntactical ways “The People” appear via web search, and ends with a long poem based on a psycho-geography mapping of Vancouver.
+
+              00:32:21 - Charlotte Zhang reads her own “Untitled” short story.
+
+              00:43:15 - Sonnet L’Abbé shares a selection of her sonnets from “Sonnet’s Shakespeare” (to be published by Mcclelland & Stewart in 2018) where she writes over all of Shakespeare’s 154 sonnets.
+
+              01:10:49 - Hamish Hardie reads his short story “The Window.”
+
+              01:18:20 - Casey Wei reads “A Letter from the Editor” (her) from the first edition of Agony Klub (AK01), a magazine and mix tape edited by Wei that invites musicians with writing and visual art practices and vice versa to contribute.
+
+              ~
+              This event occurred in conjunction with Art Rock? No.18 on Friday, May 5 2017. Performances by Bye House, CROTCH and DS Lori were hosted at The Black Dot in Nanaimo, BC.
+
+              Special thanks to the City of Nanaimo, Art Lab and Nanaimo Art Gallery for supporting this event.
+              </itunes:summary>
+              <itunes:duration>01:35:32</itunes:duration>
               <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, Reading, LITLITLITLIT</itunes:keywords>
           </item>
         </channel>
